@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Orange35_SalesruleTime>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Rule />
+                <Mage_SalesRule />
+            </depends>
+        </Orange35_SalesruleTime>
+    </modules>
+</config>
