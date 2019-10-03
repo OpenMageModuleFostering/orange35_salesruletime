@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/orange35_salesruletime",
+    "name": "OpenMageModuleFostering\/orange35_salesruletime",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Time dependent Shopping cart price rules",
     "authors": [
-    {
-        "name": "Orange35",
-        "email": "support@orange35.com"
-    }
-],
+        {
+            "name": "Orange35",
+            "email": "support@orange35.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
